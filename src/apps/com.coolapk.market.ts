@@ -10,7 +10,10 @@ export default defineGkdApp({
       desc: '关闭信息流中的卡片广告',
       enable: false,
       matchRoot: true,
-      activityIds: ['com.coolapk.market.view.feed.FeedDetailActivityV8', 'com.coolapk.market.view.main.MainActivity'],
+      activityIds: [
+        'com.coolapk.market.view.feed.FeedDetailActivityV8',
+        'com.coolapk.market.view.main.MainActivity',
+      ],
       fastQuery: true,
       rules: [
         {
