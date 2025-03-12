@@ -12,8 +12,8 @@ export default defineGkdApp({
         {
           key: 0,
           name: '评论区信息流广告右上角关闭',
-          matches:'ImageView[id="com.coolapk.market:id/close_view"]',
-        }
+          matches: 'ImageView[id="com.coolapk.market:id/close_view"]',
+        },
       ],
     },
   ],
