@@ -17,7 +17,7 @@ export default defineGkdApp({
           key: 1,
           name: '评论区信息流广告右上角关闭',
           matches: 'ImageView[vid="close_view"]',
-          snapshotUrls: ''
+          snapshotUrls: [''],
         },
       ],
     },
